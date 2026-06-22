@@ -1,0 +1,119 @@
+procedural language
+------->this follows a step-by-step approach 
+eg --->
+object-oriented programming ----->
+python----->
+1. dynamically
+2.interpretter
+3. high level 
+
+This is based on the concept of object and class
+print(89+78)
+num=89
+print(id(num))
+
+---->python is invented in the year of 1991 guide van russum he is the invite python.
+easy syntax
+cross-platform
+wide application
+huge library support
+
+---->Tokens
+1. keywords
+eg: if, else, for, while
+
+2. identifiers
+eg: variables, functions, class
+
+3. literals
+eg:89, "hello", 4.56
+
+4. operators
+eg:+ - / * 
+
+5. punctuators
+eg:(),[] {}
+ 
+--------->variables
+num = 7
+Num =8
+num2 = 9 do's
+ 
+$num = 0
+su$m =0
+2num =0 don't
+
+-------->comments
+1. single line comm---->#
+2. multi-line ------>''' ''',""" """
+
+#what is python
+duo = 9
+if duo % 2 == 0:
+    print("i am even")
+else:
+    print("i am odd")
+
+"What is Python 
+Now tell me how to access"""
+
+duo = 9
+if duo % 2 == 0:
+    print("i am even")
+else:
+    print("in am odd")
+
+------>boolen
+true or false
+
+a=10;
+b=20;
+if(a>b):
+print("it is true")
+else:
+print("it is false")
+
+ 
+a = True
+b = False
+
+print("a and b =", a and b)
+print("a or b =", a or b)
+print("not a =", not a)
+print("not b =", not b)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
